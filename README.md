@@ -9,5 +9,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-%23000000?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML5-%23000000?style=for-the-badge&logo=html5)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui)
+![AWS](https://img.shields.io/badge/-AWS-%23000000?style=for-the-badge&logo=amazon-aws)
 
 ✉️ Say hi at hello@bani.io
