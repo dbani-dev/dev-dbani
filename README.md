@@ -1,6 +1,6 @@
 ## I’m a User Experience Lead at Shell Energy ⚡️. I have worked on products for clients in the US, Canada and Australia. I like all things design ✍🏼, beach 🌊, anime 👺 and a good coffee ☕️. 
 
-### Languages and Technologies
+### Tech
 ![React](https://img.shields.io/badge/-React-%23000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-%23000000?style=for-the-badge&logo=redux)
 ![ApolloGQ](https://img.shields.io/badge/-ApolloGQ-%23000000?style=for-the-badge&logo=graphql)
