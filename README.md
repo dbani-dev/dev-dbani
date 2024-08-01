@@ -1,4 +1,4 @@
-Hello! I'm a User Experience Lead at Shell with 15+ years of experience, specializing in modern technologies stacks like AWS, Azure and React. I have worked on products for customers in the US, Canada and Australia. I like all things design + engineering.
+Hello! I'm a User Experience Lead at Shell with 15+ years of experience, specializing in modern technology like AWS, Azure and React. I have worked on products for customers in the US, Canada and Australia. I like all things design + engineering.
 
 ![React](https://img.shields.io/badge/-React-%23000000?style=for-the-badge&logo=react)
 ![ApolloGQ](https://img.shields.io/badge/-GraphQl-%23000000?style=for-the-badge&logo=graphql)
